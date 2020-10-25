@@ -1,5 +1,5 @@
-## ***Automação Web***
-Projeto criado como um desafio para automatizar um API proposto pela empresa DBC
+## ***Automação API ***
+Projeto criado como um desafio para automatizar uma API proposto pela empresa DBC
 <p> <br />
 
 
@@ -7,7 +7,7 @@ Projeto criado como um desafio para automatizar um API proposto pela empresa DBC
 
  - Java
  - Selenium
- - JUnit
+ - JUnit 4
 
 <p> <br />
 
